@@ -38,3 +38,6 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ## Author
 
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+
+
+- The '^' anchor at the beginning is a way to limit how it matches the string be stating where the matches can begin and end. - I added this.
